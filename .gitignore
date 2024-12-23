@@ -173,3 +173,14 @@ cython_debug/
 # CIFAR-10 Dataset
 cifar-10-batches-py/
 cifar-10-python.tar.gz
+
+# 디폴트 무시된 파일
+/shelf/
+/workspace.xml
+
+# 에디터 기반 HTTP 클라이언트 요청
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
