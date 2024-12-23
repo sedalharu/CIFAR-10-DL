@@ -184,3 +184,8 @@ cifar-10-python.tar.gz
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+.idea/.name
+.idea/DeepLearning.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml

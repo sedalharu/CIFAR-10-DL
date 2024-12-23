@@ -1,0 +1,60 @@
+모델 평가 결과
+==================================================
+
+Overall Accuracy: 0.8425
+Overall Precision: 0.8477
+Overall Recall: 0.8425
+Overall F1-Score: 0.8419
+
+클래스별 성능:
+--------------------------------------------------
+
+plane:
+  Precision: 0.7534
+  Recall: 0.9320
+  F1-Score: 0.8333
+
+car:
+  Precision: 0.9315
+  Recall: 0.9250
+  F1-Score: 0.9282
+
+bird:
+  Precision: 0.8707
+  Recall: 0.7340
+  F1-Score: 0.7965
+
+cat:
+  Precision: 0.7197
+  Recall: 0.7010
+  F1-Score: 0.7102
+
+deer:
+  Precision: 0.8827
+  Recall: 0.7750
+  F1-Score: 0.8253
+
+dog:
+  Precision: 0.8255
+  Recall: 0.7570
+  F1-Score: 0.7898
+
+frog:
+  Precision: 0.7796
+  Recall: 0.9340
+  F1-Score: 0.8499
+
+horse:
+  Precision: 0.8449
+  Recall: 0.9100
+  F1-Score: 0.8763
+
+ship:
+  Precision: 0.9597
+  Recall: 0.8570
+  F1-Score: 0.9054
+
+truck:
+  Precision: 0.9091
+  Recall: 0.9000
+  F1-Score: 0.9045
