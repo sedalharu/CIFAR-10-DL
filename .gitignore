@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# CIFAR-10 Dataset
+cifar-10-batches-py/
+cifar-10-python.tar.gz
